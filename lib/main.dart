@@ -41,7 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     final l10n = context.l10n;
-    print(l10n.authenticationFailure);
+    print(l10n.downForMaintenanceTitle);
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
