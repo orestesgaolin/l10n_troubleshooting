@@ -1,0 +1,8 @@
+{
+    "downForMaintenanceTitle": "We Are Currently Experiencing Difficulties.",
+    "@downForMaintenanceTitle": {
+      "description": "Title shown when app is down for maintenance.",
+      "type": "text",
+      "placeholders": {}
+    }
+  }
